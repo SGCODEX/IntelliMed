@@ -1,4 +1,5 @@
 # IntelliMed
+## AI-Powered Health Prediction and Advisory System
 
 IntelliMed is an advanced health prediction and advisory system powered by artificial intelligence and machine learning.It identifies 31 self-diagnosable illnesses and it  not only predicts illnesses but also recommends remedies, advises on when to seek medical consultation, and provides dietary guidance. The system employs diverse machine learning models such as Decision Tree, K Nearest Neighbours (KNN), Logistic Regression, Random Forest, Support Vector Machine (SVM), and Stochastic Gradient Descent (SGD)
 
